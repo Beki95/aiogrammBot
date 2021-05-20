@@ -8,8 +8,8 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 ip = os.getenv("ip")
 
-# PGUSER = os.getenv("PGUSER")
-# PGPASSWORD = os.getenv("PGPASSWORD")
+PGUSER = os.getenv("PGUSER")
+PGPASSWORD = os.getenv("PGPASSWORD")
 
 
 # chanels = [-1001244090631]
